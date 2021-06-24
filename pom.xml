@@ -12,5 +12,8 @@
     <!--涉及相关模块按顺序编译打包-->
     <modules>
         <module>buddha-parent</module>
+        <module>buddha-common</module>
+        <module>buddha-sys</module>
+        <module>buddha-cms</module>
     </modules>
 </project>

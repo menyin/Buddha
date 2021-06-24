@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <parent>
+        <artifactId>buddha-parent</artifactId>
+        <groupId>com.cny.buddha</groupId>
+        <version>0.0.1-SNAPSHOT</version>
+    </parent>
+    <modelVersion>4.0.0</modelVersion>
+    <artifactId>buddha-common</artifactId>
+    <packaging>pom</packaging>
+    <version>0.0.1-SNAPSHOT</version>
+    <modules>
+        <module>buddha-common-entity</module>
+        <module>buddha-common-edsw</module>
+        <module>buddha-common-dao</module>
+        <module>buddha-common-service</module>
+        <module>buddha-common-web</module>
+    </modules>
+
+
+
+</project>
